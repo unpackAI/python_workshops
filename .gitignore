@@ -1,0 +1,7 @@
+rating_anime.xlsx
+rating_anime_final.xlsx
+~$*
+*.zip
+*.7z
+.mypy_cache
+*.pyc

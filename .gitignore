@@ -5,3 +5,4 @@ rating_anime_final.xlsx
 *.7z
 .mypy_cache
 *.pyc
+.ipynb_checkpoints
